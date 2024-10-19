@@ -1,3 +1,6 @@
+## Live Demo
+The application is hosted on Netlify. You can view it here: [Fooody-UI](https://fooody-ui.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
