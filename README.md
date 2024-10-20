@@ -1,5 +1,5 @@
 ## Live Demo
-The application is hosted on Netlify. You can view it here: [Fooody-UI](https://fooody-ui.netlify.app/)
+The application is hosted on Netlify. You can view it here: [Fooody-UI](https://fft-ux.netlify.app/)
 
 # Getting Started with Create React App
 
