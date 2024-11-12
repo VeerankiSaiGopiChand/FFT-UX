@@ -136,7 +136,7 @@ function App() {
                     <div className='contactUs-sec foot-sec'>
                         <h5 className='footer-sec'>Contact Us</h5>
                         <p>Lorem Ipsum Pvt Ltd.5/1, Magalton Road, Phartosh Gate near YTM Market, XYZ-343434</p>
-                        <p>example2020@gmail.com</p>
+                        <p>gopichand2024@gmail.com</p>
                         <p>(904) 443-0343</p>
                     </div>
                     <div className='more-sec foot-sec'>
@@ -155,7 +155,7 @@ function App() {
                             <img className='social' src={facebook} alt='insta'></img>
                           </div>
                           <div className='copywrite'>
-                            © 2022 Food Truck Example
+                            © 2024 Food Truck Example
                           </div>
                         </div>
                     </div>
